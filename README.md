@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan sai</h1>
 <h3 align="center">A passionate AWS Solutions Architect from India</h3>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **Ecommerce Project**
 
 - 🌱 I’m currently learning **Generative AI , AWS Devops**
 
