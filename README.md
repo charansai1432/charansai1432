@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** React JS ,  Devops Tools , Testing Tools **
 
-- 👯 I’m looking to collaborate on **Cloud and AIML projects**
+- 👯 I’m looking to collaborate on ** Cloud and AIML projects **
 
 - 📫 How to reach me **charansaichintala890@gmail.com**
 
