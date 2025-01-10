@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Project**
 
-- 🌱 I’m currently learning **Generative AI , AWS Devops**
+- 🌱 I’m currently learning ** React JS ,  Devops Tools , Testing Tools **
 
 - 👯 I’m looking to collaborate on **Cloud and AIML projects**
 
