@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charan sai</h1>
 <h3 align="center">A passionate AWS Solutions Architect from India</h3>
 
-- 🔭 I’m currently working on ** Devops Project's **
+- 🔭 I’m currently working on ** Web development & Devops Project's **
 
-- 🌱 I’m currently learning ** React JS ,  Devops Tools , Testing Tools **
+- 🌱 I’m currently learning ** React JS ,  Devops Tools  **
 
 - 👯 I’m looking to collaborate on ** Cloud and AIML projects **
 
