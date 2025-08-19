@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan sai</h1>
-<h3 align="center">A passionate MERN Stack Developer &&  AWS Solutions Architect - Associate </h3>
+<h3 align="center"> Software Enginner </h3>
 
 - 🔭 I’m currently working on ** Web development , Devops & AIML Project's**
 
