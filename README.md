@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan sai</h1>
 <h3 align="center"> Software Enginner </h3>
 
-- 🔭 I’m currently working on ** Web development , Devops & AIML Project's**
+- 🔭 I’m currently working on ** Web development ,  AIML Project's**
 
 - 🌱 I’m currently learning ** Machine Learning **
 
