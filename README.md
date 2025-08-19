@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** Web development , Devops & AIML Project's**
 
-- 🌱 I’m currently learning ** React JS ,  Devops Tools  **
+- 🌱 I’m currently learning ** Machine Learning Topics for GenAI side**
 
 - 👯 I’m looking to collaborate on ** Cloud and AIML projects **
 
